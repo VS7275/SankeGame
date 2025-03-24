@@ -17,6 +17,7 @@ Project Description :  This is a simple Snake Game implemented in Java, where th
                        Poojitha : High score system
                                   Timer
                        Jigmat   : Music
+                                  Sound System
 Library used        :  1. java.awt.* (Abstract Window Toolkit - AWT)
                          Graphics → Used for drawing elements like the snake, apple, and grid.
                          Color → Sets the background and object colors.
